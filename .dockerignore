@@ -1,0 +1,11 @@
+**/*.md
+**/.gitignore
+**/.gitattributes
+**/*.DS_Store
+node_modules
+__tests
+coverage
+stories
+.git
+.nyc_output
+.eslintrc
